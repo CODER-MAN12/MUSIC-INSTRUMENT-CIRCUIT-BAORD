@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvfvmwrc012a01rpjsobsk98). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Macro pad that can play pre recorded sounds
+> Macro pad that can play pre recorded sounds. Any sound or used to change lets say the beat of the music in the music editing software
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

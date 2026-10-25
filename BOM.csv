@@ -1,6 +1,8 @@
-"Reference","Qty","Value","Unit Price (USD)","Ext Price (USD)","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"5.1k1,5.1k2","2","5.1kΩ","$0.01","$0.02","","","","","${EXCLUDE_FROM_POS_FILES}","Resistor_SMD:R_0805_2012Metric",""
-"J1","1","USB_C_Receptacle_USB2.0_16P","$0.35","$0.35","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16","16","Blue Mechanical Switch","$0.45","$7.20","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"U1","1","RP2040","$0.92","$0.92","","","","","${EXCLUDE_FROM_POS_FILES}","Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm","https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf"
-"U2","1","LD1117S33TR_SOT223","$0.25","$0.25","","","","","${EXCLUDE_FROM_POS_FILES}","Package_TO_SOT_SMD:SOT-223-3_TabPin2","http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"
+Item,Qty,Supplier,Cost/item,Total Cost,link
+5.1kΩ,2,,$0.01,$0.02,
+USB_C_Receptacle_USB2.0_16P,1,,$0.35,$0.35,
+Blue Mechanical Switch,16,,$0.45,$7.20,
+RP2040,1,,$0.92,$0.92,
+LD1117S33TR_SOT223,1,,$0.25,$0.25,
+Pcd-way,1,PCB-way,$55.00,$55.00,https://www.pcbway.com/
+Estimated total shipping,1,,,$0.00,
