@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: sae3m-b2cma
+created: 2026-10-19T18:43:40-07:00
